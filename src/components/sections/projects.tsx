@@ -5,7 +5,7 @@ export const Projects = () => {
       title: "Expatnova 2.0",
       description:
         "Led migration of expatriate administration system from CodeIgniter to Laravel. Designed backend architecture and spearheaded frontend architecture in Next.js with TypeScript, establishing state management strategies and coding standards.",
-      image: "src/assets/xpatnova.png",
+      image: "assests/xpatnova.png",
       technologies: ["Laravel", "Next.js", "TypeScript", "PostgreSQL", "React"],
       featured: true,
       company: "Itools Sdn Bhd",
@@ -16,7 +16,7 @@ export const Projects = () => {
       title: "Tickethub",
       description:
         "Event ticketing platform with robust state management using Zustand, scalable backend with Next.js API routes and Express.js, Redis caching, Prisma ORM optimization, and comprehensive request validation.",
-      image: "src/assets/tickethub.png",
+      image: "assests/tickethub.png",
       technologies: [
         "Next.js",
         "Express.js",
@@ -35,7 +35,7 @@ export const Projects = () => {
       title: "Todak Arena",
       description:
         "Tournament organizer software with high-performance database schemas, comprehensive RESTful API ecosystem, secure admin dashboards with RBAC, and advanced analytics. Led database migration and system integration.",
-      image: "src/assets/todak-arena.png",
+      image: "assests/todak-arena.png",
       technologies: [
         "NestJS",
         "PostgreSQL",
@@ -53,7 +53,7 @@ export const Projects = () => {
       title: "Majilis Sama Hadis",
       description:
         "End-to-end registration, payment, and attendance system with secure payment integration, real-time attendance tracking, and optimized database performance for large-scale event management.",
-      image: "src/assets/majilis-sama-hadis.png",
+      image: "assests/majilis-sama-hadis.png",
       technologies: [
         "NestJS",
         "PostgreSQL",
@@ -70,7 +70,7 @@ export const Projects = () => {
       title: "MyBarber",
       description:
         "Uber-like platform for booking barbers with scheduling APIs, payment integration, user management, and optimized database queries. Contributed to backend development and API documentation.",
-      image: "src/assets/my-barber.png",
+      image: "assests/my-barber.png",
       technologies: ["NestJS", "PostgreSQL", "TypeScript", "Redis"],
       featured: false,
       company: "Todak Digitech",
@@ -81,7 +81,7 @@ export const Projects = () => {
       title: "Adnexio Jobs & Edu",
       description:
         "Job application and e-learning platform with Applicant Tracking System integration, optimized schema design, and analytics endpoints for data-driven insights.",
-      image: "src/assets/logo_adnexio.webp",
+      image: "assests/logo_adnexio.webp",
       technologies: ["NestJS", "PostgreSQL", "TypeScript", "Express.js"],
       featured: false,
       company: "Invoke Solutions",
@@ -92,7 +92,7 @@ export const Projects = () => {
       title: "Adnexio HR",
       description:
         "Human Resource Management System with Upskilling Module and ATS Module. Developed API endpoints aligned with business objectives and integrated with analytics platform.",
-      image: "src/assets/logo_adnexio.webp",
+      image: "assests/logo_adnexio.webp",
       technologies: ["NestJS", "PostgreSQL", "TypeScript", "Redis"],
       featured: false,
       company: "Invoke Solutions",
@@ -103,7 +103,7 @@ export const Projects = () => {
       title: "Parliament Ticketing",
       description:
         "System for managing and centralizing aids and complaints from parliament residents. Served as sole backend developer, ensuring reliability, security, and seamless frontend integration.",
-      image: "src/assets/logo_adnexio.webp",
+      image: "assests/logo_adnexio.webp",
       technologies: ["NestJS", "MySQL", "TypeScript", "Express.js"],
       featured: false,
       company: "Invoke Solutions",
