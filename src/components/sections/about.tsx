@@ -59,7 +59,7 @@ export const About = () => {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8 py-8 border-y border-border">
               <div className="text-center">
                 <div className="text-2xl md:text-3xl font-bold text-primary mb-2">
-                  3+
+                  2+
                 </div>
                 <div className="text-sm text-muted-foreground">
                   Years Experience
@@ -67,7 +67,7 @@ export const About = () => {
               </div>
               <div className="text-center">
                 <div className="text-2xl md:text-3xl font-bold text-primary mb-2">
-                  50+
+                  10+
                 </div>
                 <div className="text-sm text-muted-foreground">
                   Projects Completed
